@@ -27,3 +27,6 @@ Open the Tableau dashboard file
 Load the dataset provided
 
 Explore interactive insights.
+
+DASHBOARD VIEW LINK :
+https://public.tableau.com/app/profile/naveen.kumar3929/viz/SALESANALYSISDASHBOARD_17588802291280/SalesDashboard?publish=yes
